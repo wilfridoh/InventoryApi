@@ -19,6 +19,7 @@
     <ProjectReference Include="..\InventoryApi.Aplicacion\InventoryApi.Aplicacion.csproj" />
     <ProjectReference Include="..\InventoryApi.Domain\InventoryApi.Domain.csproj" />
     <ProjectReference Include="..\InventoryApi.Infraestructura\InventoryApi.Infraestructura.csproj" />
+    <ProjectReference Include="..\InventoryApi.Shared\InventoryApi.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>
